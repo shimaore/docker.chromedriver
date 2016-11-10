@@ -1,7 +1,7 @@
 {
   "name": "docker.chromedriver",
   "docker_name": "shimaore/chromedriver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "chromedriver in docker",
   "author": "Stéphane Alnet <stephane@shimaore.net> (https://stephane.shimaore.net/)",
   "license": "Unlicense",
